@@ -1,0 +1,6 @@
+{
+  "name": "LBG Car Rental Libreville",
+  "description": "Plateforme moderne de location de voitures de prestige et utilitaires à Libreville, Gabon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
