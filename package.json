@@ -1,13 +1,13 @@
 {
-  "name": "react-example",
+  "name": "GESPARC Rental_Car",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Une Plateforme moderne pour la location de et reservation de voiture",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "preview": "vite preview",
-    "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
@@ -30,6 +30,7 @@
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.3",
-    "@types/express": "^4.17.21"
+    "@types/express": "^4.17.21",
+    "@vitejs/plugin-react": "^5.0.4"
   }
 }
